@@ -1,0 +1,52 @@
+@baseUrl = http://127.0.0.1:8000/api/users
+
+### Create User
+POST http://127.0.0.1:8000/api/users
+Content-Type: application/json
+Accept: application/json
+
+{
+    "name": "Palash",
+    "email": "Palash@example.com",
+    "username": "palash",
+    "password": "Palash1911@example.com",
+    "password_confirmation": "Palash1911@example.com",
+    "phone": "9876543210",
+    "address": "Howrah",
+    "bio": "Software Developer",
+    "type": "superadmin",
+    "status": "active"
+}
+
+
+
+
+### Create User-2
+POST http://127.0.0.1:8000/api/users
+Content-Type: application/json
+Accept: application/json
+
+{
+    "name": "UMA KAYAL",
+    "email": "Umakaya1@yahoo.com",
+    "username": "umakayal",
+    "password": "Umakaya1@yahoo.com",
+    "password_confirmation": "Umakaya1@yahoo.com",
+    "phone": "9123807185",
+    "address": "Howrah",
+    "bio": "Software Maintaince Engineer",
+    "type": "admin",
+    "status": "active"
+}
+
+
+
+### Get All Users
+GET {{baseUrl}}
+Accept: application/json
+
+
+
+### Get All Users
+GET http://127.0.0.1:8000/api/users
+Accept: application/json

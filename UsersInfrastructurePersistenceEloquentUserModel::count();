@@ -1,0 +1,37 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#5375
+    [34mall[39m: [
+      {#5377
+        +"[1mid[22m": [35m1[39m,
+        +"[1mname[22m": "[32mPalash[39m",
+        +"[1memail[22m": "[32mPalash@example.com[39m",
+        +"[1mphone[22m": "[32m9876543210[39m",
+        +"[1maddress[22m": "[32mHowrah[39m",
+        +"[1musername[22m": "[32mpalash[39m",
+        +"[1mpassword[22m": "[32m$2y$12$57f2z9pKlLDj1npAgvhUHupPsLoYOkL1ZsuhXkrDEeDO4M4EDbs26[39m",
+        +"[1mpicture[22m": [36mnull[39m,
+        +"[1mbio[22m": "[32mSoftware Developer[39m",
+        +"[1mtype[22m": "[32msuperadmin[39m",
+        +"[1mstatus[22m": "[32mactive[39m",
+        +"[1mremember_token[22m": [36mnull[39m,
+        +"[1mcreated_at[22m": "[32m2026-09-15 13:11:02[39m",
+        +"[1mupdated_at[22m": "[32m2026-09-15 13:11:02[39m",
+      },
+      {#5380
+        +"[1mid[22m": [35m2[39m,
+        +"[1mname[22m": "[32mUMA KAYAL[39m",
+        +"[1memail[22m": "[32mUmakaya1@yahoo.com[39m",
+        +"[1mphone[22m": "[32m9123807185[39m",
+        +"[1maddress[22m": "[32mHowrah[39m",
+        +"[1musername[22m": "[32mumakayal[39m",
+        +"[1mpassword[22m": "[32m$2y$12$HGi6jLZ.OTuPjr7e3NoUduMIesl3IWmvfqcrvPuT/7GoCu1DztoMa[39m",
+        +"[1mpicture[22m": [36mnull[39m,
+        +"[1mbio[22m": "[32mSoftware Maintaince Engineer[39m",
+        +"[1mtype[22m": "[32madmin[39m",
+        +"[1mstatus[22m": "[32mactive[39m",
+        +"[1mremember_token[22m": [36mnull[39m,
+        +"[1mcreated_at[22m": "[32m2026-09-15 13:12:04[39m",
+        +"[1mupdated_at[22m": "[32m2026-09-15 13:12:04[39m",
+      },
+    ],
+  }
+
